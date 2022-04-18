@@ -1,0 +1,255 @@
+body {
+    color: #7F7F7F;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0% 0%;
+}
+
+/* TODO */
+
+/* Bordered form */
+
+#content {
+    position: absolute;
+    top:15%;
+    bottom: 0;
+    left: 0%;
+    right: 0;
+ }
+#login {
+  display: inline-block;
+  width: 500px;
+  height: 350px;
+  margin: 10px auto;
+  overflow: auto;
+  padding: 15px;
+}
+
+#register {
+  display: inline-block;
+  width: 500px;
+  height: 450px;
+  margin: 10px auto;
+  overflow: auto;
+
+}
+
+#login {
+  margin: auto;
+  width: 50%;
+}
+/* Full-width inputs */
+input[type=text], input[type=password], input[type=email] {
+  width: 100%; 
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+.authButton {
+  background-color: #b22222;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+  margin: auto;
+  width: 30%;
+}
+
+/* The "Forgot password" text */
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+
+h3 {
+    font-family: 'Lobster', cursive;
+    color: #C70039;
+    padding: 10px;
+    display: inline;
+}
+
+h4{
+   float:right;
+   padding: 10px;
+   display: inline;
+}
+
+img.rounded-corners {
+  border-radius: 30px;
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.search {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+  top:-104px;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #00B4CC;
+  border-right: none;
+  height: 38px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+/* .searchButton {
+  width: 60px;
+  height: 46px;
+  background: #FF0000;
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+} */
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  display: flex;
+  width: 100%;
+  position: relative;
+  /* top: 80%;
+  left: 30%; */
+  /* transform: translate(-50%, -50%); */
+}
+
+.checkbox-placing {
+     outline: none;
+     padding: 10px;
+     top:-110px;
+     position:relative;
+     margin-right:150px;
+}
+
+.review-placing {
+     top:-110px;
+     padding: 10px;
+     position:relative;
+     margin-right:100px;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+.searchWrap {
+  position: relative;
+  display: inline;
+}
+
+.dropdown {
+  position:relative;
+  top:-104px;
+  position:relative;
+  margin-left:5px;
+}
+
+.banner {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+}
+
+.Banner1 {
+  background-color:#EF9A9A;
+  height: 50px;
+}
+
+.imgbox {
+  display: grid;
+  height: 100%;
+  margin: 10px;
+}
+.center-fit {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: auto;
+  padding-bottom: -50vw;
+  position:relative;
+  top:-100px;
+  border-radius: 3%;
+}
+
+.example {
+  color: white;
+  font-size: 17px;
+  position: relative;
+  display: inline;
+  background:#8b0000;
+  color: white;
+  border-left: none;
+}
+
+form.example button:hover {
+  background: #8b0000;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.searchDropdown {
+  position:relative;
+  top:-700px;
+  position:relative;
+  margin-left:5px;
+}
+
+.searchSearch {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+  top:-700px;
+
+}
+
+.checkbox-placingSearch {
+     outline: none;
+     padding: 10px;
+     top:-700px;
+     position:relative;
+     margin-right:150px;
+}
+
+.review-placingSearch {
+     top:-700px;
+     padding: 10px;
+     position:relative;
+     margin-right:100px;
+}
+
+.fa-right-to-bracket {
+	color: white;
+	z-index: -1;
+}

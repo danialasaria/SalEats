@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Util/" kind="src" path="Asaria_Danial_CSCI201_Assignment2/src/main/java"/>
+	<classpathentry kind="src" path="Asaria_Danial_CSCI201_Assignment2/src/main/java/Util"/>
+	<classpathentry excluding="Util/" kind="src" path="Asaria_Danial_CSCI201_Assignment2/Util"/>
+	<classpathentry kind="src" path="Asaria_Danial_CSCI201_Assignment2/Util/Util"/>
+	<classpathentry kind="lib" path="Asaria_Danial_CSCI201_Assignment2/servlet-api.jar"/>
+	<classpathentry kind="lib" path="Asaria_Danial_CSCI201_Assignment2/src/main/webapp/WEB-INF/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="Asaria_Danial_CSCI201_Assignment2/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="Asaria_Danial_CSCI201_Assignment2/build/classes"/>
+</classpath>

@@ -1,0 +1,1 @@
+Please run the sql script and then run the Assignment on the tomcat server
