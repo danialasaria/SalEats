@@ -6,7 +6,7 @@ SalEats is a website that allows you to find restaurants nearby with the help of
 
 <img width="739" alt="Screen Shot 2022-06-18 at 12 55 37 PM" src="https://user-images.githubusercontent.com/34591059/174455343-7325d165-9e62-43fc-8764-1da170ef5e25.png">
 
-<img width="855" alt="Screen Shot 2022-06-18 at 12 57 31 PM" src="https://user-images.githubusercontent.com/34591059/174455393-eea2ccb2-fc89-450b-898a-21a15b83b994.png">
+<img width="843" alt="Screen Shot 2022-06-18 at 12 58 06 PM" src="https://user-images.githubusercontent.com/34591059/174455405-f003e0f5-2fb0-4391-b625-b67fe1d3ef59.png">
 
 <img width="751" alt="Screen Shot 2022-06-18 at 12 56 28 PM" src="https://user-images.githubusercontent.com/34591059/174455362-989dfdd2-8d49-4ab8-9c12-b5fe7856ac71.png">
 
