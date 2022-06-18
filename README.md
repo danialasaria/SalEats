@@ -12,7 +12,7 @@ SalEats is a website that allows you to find restaurants nearby with the help of
 
 # Languages
 
-Java, Javascript, CSS, HTML
+Java, SQL, Javascript, CSS, HTML
 
 # Instructions 
 
